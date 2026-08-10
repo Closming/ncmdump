@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Music files (copyrighted)
+*.ncm
+*.mp3
+*.flac
+
+# Old reference project
+ncmdump-master/
+
+# OS
+Thumbs.db
+.DS_Store
