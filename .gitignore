@@ -17,6 +17,7 @@ venv/
 *.ncm
 *.mp3
 *.flac
+*.lrc
 
 # Old reference project
 ncmdump-master/
