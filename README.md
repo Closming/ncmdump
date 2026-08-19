@@ -45,7 +45,6 @@ NCM 文件采用多层加密：
 ```
 ├── ncm_gui.pyw          # GUI 应用源码
 ├── requirements.txt     # Python 依赖
-├── .gitignore
 └── README.md
 ```
 
